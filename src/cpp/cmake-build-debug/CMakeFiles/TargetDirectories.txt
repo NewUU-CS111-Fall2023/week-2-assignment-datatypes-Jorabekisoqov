@@ -1,0 +1,3 @@
+C:/Users/computter/github-classroom/NewUU-CS111-Fall2023/week-2-assignment-datatypes-Jorabekisoqov/src/cpp/cmake-build-debug/CMakeFiles/cpp.dir
+C:/Users/computter/github-classroom/NewUU-CS111-Fall2023/week-2-assignment-datatypes-Jorabekisoqov/src/cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/computter/github-classroom/NewUU-CS111-Fall2023/week-2-assignment-datatypes-Jorabekisoqov/src/cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
